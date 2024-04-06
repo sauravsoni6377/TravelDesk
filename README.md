@@ -1,0 +1,2 @@
+# Travel Desk
+The goal of this C++ project is to create a travel desk for any kind of vehicle, such as a bus. The travel desk offers basic functions such as add trip, book trip, and search to find potential excursions that meet specific needs such pick-up and drop-off locations. Binary Search Tree is used in the development of this travel desk since it does all of the aforementioned tasks very well. In this project, object-oriented programming is heavily utilized. Investigate the features and use Travel Desk's power to improve your travel experie
